@@ -1,5 +1,2 @@
-Andrew Imredy
-api5
-Everything works
-Stuff should be pretty self-evident. All the code is in thegame.asm, main.asm just calls game. 
-Check_collisions is a separate function but is called in enemies_move. 
+This was written for a Computer Organization & Assembly Language course. 
+It was written in MIPS assembly in the MARS Simulator, and runs with MARS' built-in LED display. 
